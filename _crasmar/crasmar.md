@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Crasmar
+title: República Crasmaniana
 permalink: /crasmar/
 ---
-
-# República Crasmaniana
 
 ## Justiça
 
