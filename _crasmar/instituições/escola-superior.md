@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Escola Superior Crasmaniana
-permalink: /escola-superior/
+permalink: /crasmar/escola-superior/
 ---
 
 Localizada no quadrante Piovera e fundada 15 anos antes da expansão de Crasmar, a Escola Superior traz na sua história a formação de grandes nomes da República. A instituição é responsável pela formação de diversos estudantes, principalmente vindos da região Norte e Oeste.

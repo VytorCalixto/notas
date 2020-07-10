@@ -48,7 +48,7 @@ Não tendo uma nobreza que detém o conhecimento e as riquezas, os crasmanianos 
 
 Mesmo nas comunidades mais afastadas, há a chance para que as crianças e jovens possam aprender a ler. Os jovens que leem podem tentar ingressar em diversas instituições de ensino pela república, onde vivem por alguns anos aprendendo alguns ofícios e tendo aulas de filosofia, sociologia, ética, infraestrutura, legislação e literatura.
 
-Há em Maracor a Universidade da República, local que possui os cursos de direito, retórica, medicina, filosofia, sociologia, engenharia e arquitetura. O local aprofunda o conhecimento de seus estudantes e os prepara para caminhos considerados importantes.
+Há em Maracor a <a href="{{ site.baseurl }}/crasmar/universidade-maracor">Universidade da República</a>, local que possui os cursos de direito, retórica, medicina, filosofia, sociologia, engenharia e arquitetura. O local aprofunda o conhecimento de seus estudantes e os prepara para caminhos considerados importantes. Na capital está a <a href="{{ site.baseurl }}/crasmar/universidade-maracor">Escola Superior</a>, instituição que tem suas raízes muito ligadas a formação da República.
 
 ---
 
