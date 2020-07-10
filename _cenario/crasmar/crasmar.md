@@ -4,6 +4,9 @@ title: República Crasmaniana
 permalink: /crasmar/
 ---
 
+![Mapa de Crasmar](https://i.imgur.com/XhYjCfG.jpg)
+Mapa de Crasmar
+
 ## Justiça
 
 Os crasmanianos acreditam no dever do estado de cumprir com a justiça. As leis são para todos e não há exceções. É contra o interesse comum da sociedade permitir que sejam feitas concessões devido a casos especiais. Não interessa os problemas e adversidades que levaram alguém a infringir a lei, infringí-la é um erro em qualquer instância e quem o fez sofre as consequências com toda sua severidade. O crime é uma mancha feia na humanidade e deve ser punida.

@@ -84,7 +84,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages', '_crasmar']
+include: ['_pages', '_cenario']
 
 paginate: 6
 paginate_path: /page:num/
