@@ -4,7 +4,7 @@ title: República Crasmaniana
 permalink: /crasmar/
 ---
 
-![Mapa de Crasmar](https://i.imgur.com/XhYjCfG.jpg)
+![Mapa de Crasmar](https://i.imgur.com/Y7e4COc.jpg)
 Mapa de Crasmar
 
 ## Justiça
